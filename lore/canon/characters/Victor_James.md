@@ -30,4 +30,4 @@ Now known as Veritas, he carries both the gift and the curse of absolute percept
 ## (Help Wanted!)
 
 * Need a name for the mysterious entity that guards the Truth Layer.
-* Need a name for the LAB where he works.
+* Need a name for the lab where he works.
