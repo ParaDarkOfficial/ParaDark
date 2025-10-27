@@ -1,4 +1,4 @@
-# Welcome to MythWeave 
+# Welcome to MythiQ-UNiverse 
 > Where myths evolve, together.
 
 
