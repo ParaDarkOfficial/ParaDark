@@ -1,4 +1,4 @@
-# How to Contribute to MythWeave
+# How to Contribute to MythiQ-UNiverse 
 
 We are so excited you want to help! Here’s how you can contribute.
 
