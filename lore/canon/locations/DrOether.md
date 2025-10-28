@@ -13,7 +13,7 @@ The Dr. Oetker complex is not a separate factory but the most secretive and vita
 
 ## Peculiarity
 
-* **Analog-Arcana:** The core machinery is "older then the times." These are not assembly lines but massive, non-digital contraptions of brass, obsidian, and cooled steam-pipes that operate on principles of sympathetic resonance and arcane geometry. 
+* **Analog-Arcana:** The core machinery is "older than the times." These are not assembly lines but massive, non-digital contraptions of brass, obsidian, and cooled steam-pipes that operate on principles of sympathetic resonance and arcane geometry. 
 
 * **Edible Manifestation:** The "products" are the physical, shelf-stable end-products of successful theorems. The 'recipes' are complex proofs, and the 'baking' process is the final stage of locking an abstract idea into the physical world. 
 
