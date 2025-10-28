@@ -25,5 +25,5 @@ To them, a shipment was a promise, and the map was simply a list of lies the ter
 
 ### (Help wanted!) 
 
-* Rivers Will,the river slowly losing its nature what could be the reason
+* Rivers Will, the river slowly losing its nature what could be the reason
 * who are the keepers of the current ?
