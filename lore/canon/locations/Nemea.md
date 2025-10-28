@@ -6,7 +6,7 @@
 
 ## Summary
 
-Every dock, every warehouse, every winding alley of Nemea seemed imbued with an arcane sense of purpose. The cobblestones of its oldest districts were not just stone; they were polished smooth by the passage of a million hurried feet, each imprint a ghost of an urgent errand. The air itself tasted of distant lands: of salt from the coast, of pine from the high forests, of the dry dust of desert empires, all blended into the unique, intoxicating scent of journey.For the city was the great heart of transit, the mythical nexus where all paths converged and diverged, ensuring that the world's vital currents, both seen and unseen, would forever keep flowing.
+Every dock, every warehouse, every winding alley of Nemea seemed imbued with an arcane sense of purpose. The cobblestones of its oldest districts were not just stone; they were polished smooth by the passage of a million hurried feet, each imprint a ghost of an urgent errand. The air itself tasted of distant lands: of salt from the coast, of pine from the high forests, of the dry dust of desert empires, all blended into the unique, intoxicating scent of journey. For the city was the great heart of transit, the mythical nexus where all paths converged and diverged, ensuring that the world's vital currents, both seen and unseen, would forever keep flowing.
 
 ## Peculiarity 
 
