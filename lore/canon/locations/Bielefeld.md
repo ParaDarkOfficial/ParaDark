@@ -26,4 +26,4 @@ For the rest of Germany, the lack of oversight is simply a bizarre, accepted rea
 ### (Help wanted!)
 
 * why does the Exit feels odd narrate a theory for it
-* Autobahn a city/midtown  that  lays beside Bielefeld does this city can be peculiar or its a mormal city. narrate a logic for the city 
+* Autobahn a city/midtown  that  lays beside Bielefeld does this city can be peculiar or its a normal city. narrate a logic for the city 
