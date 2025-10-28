@@ -19,7 +19,7 @@ Victor James, a brilliant quantum physicist turned reluctant hero, gained the po
 
 ## Origin Story
 
-Victor James was leading a government-backed experiment on quantum light refraction — a theory that the fabric of reality is layered, with each layer storing different versions of truth. His goal was to visualize these “truth layers” using a containment reactor that bent photons through artificial singularities.
+Victor James, a government physicist obsessed with the unseen order of the universe, led a classified experiment in quantum light refraction — a theory suggesting that reality itself is layered, each stratum storing a different version of truth. His containment reactor, designed to bend photons through artificial singularities, was meant to reveal these hidden layers… until it revealed too much.
 
 But when the reactor malfunctioned, Victor didn’t just observe the truth — he merged with it. The unstable energy tore a microscopic rift between dimensions, exposing him to the Truth Layer, a metaphysical plane that contains every fact, every lie, and every hidden intention across time.
 
