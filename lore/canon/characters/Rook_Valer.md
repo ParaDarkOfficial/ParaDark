@@ -33,6 +33,5 @@ Now, driven by envy and madness, Morphis seeks to erase the concept of “truth�
 
 ## (Help Wanted!)
 
-- Need a name for his original research project before the accident.
 - Need a visual cue for when he shapeshifts (e.g., ripple, mirror-flash, or smoke effect).
-- Does he secretly remember who Victor really is — or has he forgotten everything?
+- Need a Name for the Reactor Core which breaks and travels around dimensions.
