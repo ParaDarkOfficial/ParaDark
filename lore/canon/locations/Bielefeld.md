@@ -14,7 +14,7 @@ Imagine driving the Autobahn, a ribbon of logic and efficiency, only to see the 
 ## Peculiarity 
 
 * **Bielefeld-university:** This very university is finest in all german. where the prospects comes true 
-* **DR. Oetker:** german popular food brand  makes people inquisitive about the food 
+* **DR. Oetker:** German popular food brand  makes people inquisitive about the food 
 **Autobahn Exit:** This very gate offered the powerful, disorienting illusion of exiting reality, despite merely leading into a city indistinguishable from every other.
 * **Officialdom:** The German Republic, a meticulous framework of laws and ledgers, maintains no direct administrative contact with the city of Bielefeld.
 
