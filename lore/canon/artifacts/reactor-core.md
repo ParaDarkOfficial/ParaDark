@@ -7,7 +7,11 @@
 ---
 
 ## Summary
+<<<<<<< HEAD:lore/artifacts/reactor-core.md
 This is the reactor core built by **[Victor James](/lore/canon/characters/Victor_james.md)** and **[Rook Valer](/lore/canon/characters/Rook_Valer.md)**. During the accident, it imploded and shattered into 100 pieces.
+=======
+This is the reactor core built by **[Victor James](/lore/canon/characters/Victor_james.md)** and **[Rook Valer](/lore/canon/characters/Rook_Valer.md)**. During the accident, it imploded and shattered into 100  pieces.
+>>>>>>> artifacts:lore/canon/artifacts/reactor-core.md
 
 These "Core Fragments" were scattered across the **[Prime Dimension](/lore/canon/locations/prime-dimension.md)** and, in some cases, into other dimensions.
 
