@@ -41,7 +41,7 @@ The team of three was unmatched:
 Victor hesitated, then made the choice that would unmake reality. “Push the injection. Just for a moment.”
 
 That single moment was enough.  
-The Core ignited — not in light, but in **truth**. The containment rings screamed as spacetime bent inward. Then, with a sound like glass breaking inside a dream, the **Truth Engine** collapsed. The Core shattered into a hundred burning fragments — **Shards of Worlds** — and a wave of raw, dimensionless energy tore through the room.
+The Core ignited — not in light, but in **truth**. The containment rings screamed as spacetime bent inward. Then, with a sound like glass breaking inside a dream, the **Truth Engine** collapsed. The Core shattered into 100 burning fragments — **Shards of Worlds** — and a wave of raw, dimensionless energy tore through the room.
 
 - Victor was struck by the **Truth Layer**, his consciousness forever fused with the ability to perceive absolute reality. He would awaken as **Veritas, the Seer of Truth**.  
 - Rook was engulfed in the **Chaos Layer**, his molecular form unraveling and reassembling endlessly. From that day forward, he became **Morphis, the Shifting Shadow**.  
