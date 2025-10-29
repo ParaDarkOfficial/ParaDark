@@ -1,6 +1,6 @@
-# How to Contribute to MythiQ-Universe
+# How to Contribute to ParaDarkOfficial
 
-We're thrilled that you want to join **MythiQ-Universe** — a collaborative mythology where imagination meets creation.
+We're thrilled that you want to join **ParaDarkOfficial** — a collaborative mythology where imagination meets creation.
 
 Whether you're a **writer**, **artist**, or **developer**, your contributions shape our ever-expanding multiverse.
 

@@ -1,11 +1,11 @@
-# Welcome to **MythiQ-Universe**
+# Welcome to **ParaDarkOfficial**
 > Where myths evolve — together.
 
 [![Contributors](https://img.shields.io/github/contributors/prathoseraaj/mystiQ-universe)](https://github.com/prathoseraaj/mystiQ-universe/graphs/contributors)
 [![GitHub Stars](https://img.shields.io/github/stars/prathoseraaj/mystiQ-universe)](https://github.com/prathoseraaj/mystiQ-universe/stargazers)
 [![License](https://img.shields.io/badge/License-MIT%20%2B%20CC--BY--NC--SA%204.0-blue)](./LICENSING.md)
 
-**MythiQ-Universe** is an open-source collaborative mythology universe built by a creative community of **writers, artists, and developers**.  
+**ParaDarkOfficial** is an open-source collaborative mythology universe built by a creative community of **writers, artists, and developers**.  
 Every story, artifact, and character is forged right here on **GitHub** — shaping an ever-expanding multiverse of legends.
 
 ---
@@ -25,7 +25,7 @@ Writers and coders can now expand the world through the `/lore/community/` folde
 
 ---
 
-## What is MythiQ-Universe?
+## What is ParaDarkOfficial?
 
 A **living mythology** where:
 - **Writers** craft characters, myths, and worlds
@@ -80,7 +80,7 @@ mystiQ-universe/
 
 ---
 
-## Why Join MythiQ-Universe?
+## Why Join ParaDarkOfficial?
 
 - **No gatekeeping** — Every good idea gets reviewed fairly
 - **Your lore becomes canon** — Merged stories are part of the official universe
@@ -105,7 +105,7 @@ We welcome:
 
 ### Important: Licensing for Contributors
 
-By contributing to MythiQ-Universe, you agree that:
+By contributing to ParaDarkOfficial, you agree that:
 
 - **Your lore contributions** are licensed under **CC BY-NC-SA 4.0**
   - **You retain credit** — Your name stays in commit history and lore files
