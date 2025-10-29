@@ -3,10 +3,13 @@
 
 [![Contributors](https://img.shields.io/github/contributors/prathoseraaj/mystiQ-universe)](https://github.com/prathoseraaj/mystiQ-universe/graphs/contributors)
 [![GitHub Stars](https://img.shields.io/github/stars/prathoseraaj/mystiQ-universe)](https://github.com/prathoseraaj/mystiQ-universe/stargazers)
-[![License](https://img.shields.io/badge/License-MIT%20%2B%20CC--BY--NC--SA%204.0-blue)](./LICENSING.md)
+[![Code License: MIT](https://img.shields.io/badge/Code-MIT-green.svg)](./LICENSE)
+[![Lore License: CC BY-NC-SA 4.0](https://img.shields.io/badge/Lore-CC--BY--NC--SA%204.0-orange.svg)](./lore/LICENSE)
 
 **MythiQ-Universe** is an open-source collaborative mythology universe built by a creative community of **writers, artists, and developers**.  
 Every story, artifact, and character is forged right here on **GitHub** — shaping an ever-expanding multiverse of legends.
+
+> **📜 Dual Licensed:** Code is [MIT](./LICENSE) • Creative content is [CC BY-NC-SA 4.0](./lore/LICENSE) • [Full details](./LICENSING.md)
 
 ---
 
@@ -101,7 +104,7 @@ We welcome:
 - **Artists** — Visualize characters and worlds *(accepting contributions)*
 - **Translators** — Help make lore accessible globally *(future)*
 
-      **[Read the Full Contribution Guide](./CONTRIBUTING.md)**
+  **[Read the Full Contribution Guide](./CONTRIBUTING.md)**
 
 ### Important: Licensing for Contributors
 
