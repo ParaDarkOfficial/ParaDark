@@ -1,35 +1,135 @@
-# Welcome to MythiQ-UNiverse 
-> Where myths evolve, together.
+# Welcome to **MythiQ-Universe**
+> Where myths evolve — together.
 
+[![Contributors](https://img.shields.io/github/contributors/prathoseraaj/mystiQ-universe)](https://github.com/prathoseraaj/mystiQ-universe/graphs/contributors)
+[![GitHub Stars](https://img.shields.io/github/stars/prathoseraaj/mystiQ-universe)](https://github.com/prathoseraaj/mystiQ-universe/stargazers)
+[![License](https://img.shields.io/github/license/prathoseraaj/mystiQ-universe)](./LICENSE)
 
-
-MythWeave is an open-source mythology universe, built by a community of writers, artists, and developers. All our lore is created right here on GitHub.
-
-## How to Join Us (Choose Your Path)
-
-We have two ways to contribute, for coders and for creatives.
+**MythiQ-Universe** is an open-source collaborative mythology universe built by a creative community of **writers, artists, and developers**.  
+Every story, artifact, and character is forged right here on **GitHub** — shaping an ever-expanding multiverse of legends.
 
 ---
 
-### 1. For Writers & World-Builders (Easy Mode)
-Help us build the universe! We need your ideas for characters, myths, and locations. **No code needed.**
+## The Beginning of the Universe
 
-* **Want to create your own legend?**
-    * Go to our `/lore/community` folder.
-    * Add a new `.md` file with your story or character.
-    * We will merge *every* good idea.
-* **Want to build on the official lore?**
-    * Read our official `/lore/canon` files.
-    * Write a new story about those characters!
+The official origin story of our world is now live:  
+  [**Read: The First Spark**](/lore/canon/myths/The_First_Spark.md)
 
+It tells the story of the Quantum Reactor accident that fractured the Prime Dimension and scattered 100 **Shards of Worlds** across reality.
 
-### 2. For Developers (Coder Mode)
-Help us build the platform! Our website is built with **Next.js** and **Python (for AI)**.
+Writers and coders can now expand the world through the `/lore/community/` folder:
+- Characters → `/lore/community/characters/`
+- Locations → `/lore/community/locations/`
+- Artifacts → `/lore/community/artifacts/`
+- Myths (short stories) → `/lore/community/myths/`
 
-* **Want to help?** Check out our "Issues" tab.
-* We have many tasks labeled **`good first issue`**.
-* **Our Tech Stack:**
-    * **Frontend:** `/app` (Next.js, React, Tailwind CSS)
-    * **Content:** `/lore` (Markdown)
-    * **AI Backend:** (Python, FastAPI) - *Coming Soon!*
+---
 
+## What is MythiQ-Universe?
+
+A **living mythology** where:
+- **Writers** craft characters, myths, and worlds
+- **Developers** build interactive lore platforms
+- **Artists** visualize the multiverse *(coming soon)*
+- **Everyone** shapes the canon through community contributions
+
+Unlike traditional stories, **MythiQ evolves through pull requests** — every accepted contribution becomes part of the official multiverse.
+
+---
+
+## Quick Start
+
+### For Readers
+1. Browse the **[Official Canon Lore](/lore/canon/)**
+2. Explore **[Community Creations](/lore/community/)**
+3. Discover connections between stories and worlds
+
+### For Contributors
+Want to add your own myth or build features?  
+    **[See CONTRIBUTING.md](./CONTRIBUTING.md)** for step-by-step guides
+
+---
+
+## Project Structure
+
+```
+mystiQ-universe/
+├── app/              # Next.js frontend (interactive lore platform)
+├── lore/
+│   ├── canon/        # Official universe mythology
+│   │   ├── myths/
+│   │   ├── characters/
+│   │   └── locations/
+│   └── community/    # Fan-created stories (reviewed before merging)
+│       ├── characters/
+│       ├── locations/
+│       ├── artifacts/
+│       └── myths/
+├── CONTRIBUTING.md   # How to contribute
+└── README.md         # You are here
+```
+
+---
+
+## Tech Stack
+
+- **Frontend:** Next.js + React + Tailwind CSS
+- **Content:** Markdown-based lore system
+- **Backend:** Python + FastAPI *(coming soon)*
+- **AI Features:** Story generators, lore search *(roadmap)*
+
+---
+
+## Why Join MythiQ-Universe?
+
+- **No gatekeeping** — Every good idea gets reviewed fairly
+- **Your lore becomes canon** — Merged stories are part of the official universe
+- **Open-source mythology** — Built by the community, for the community
+- **Cross-platform potential** — Stories can become games, art, or interactive experiences
+
+> **"The world doesn't end with legends — it begins with them."**
+
+---
+
+## How to Contribute
+
+We welcome:
+- **Lore Writers** — Add myths, characters, locations, artifacts
+- **Developers** — Build features, fix bugs, improve the platform
+- **Artists** — Visualize characters and worlds *(accepting contributions)*
+- **Translators** — Help make lore accessible globally *(future)*
+
+    **[Read the Full Contribution Guide](./CONTRIBUTING.md)**
+
+---
+
+## Community Guidelines
+
+- Be respectful and constructive
+- Credit sources and inspirations
+- Maintain mythic consistency with the universe tone
+- One clear change per pull request
+- No plagiarism or uncredited content
+
+---
+
+## Quick Links
+
+- [Official Canon Lore](/lore/canon/)
+- [Community Submissions](/lore/community/)
+- [Contribution Guide](./CONTRIBUTING.md)
+- [Open Issues](../../issues)
+- [Project Roadmap](../../projects) *(coming soon)*
+
+---
+
+## Stay Connected
+
+- **Discussions:** [GitHub Discussions](../../discussions)
+- **Issues & Suggestions:** [Issue Tracker](../../issues)
+
+---
+
+**Created with ❤️ by the MythiQ Community**
+
+> Join the universe. Shape the myth. Become legend.
