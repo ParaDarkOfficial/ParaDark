@@ -1,5 +1,6 @@
 import Hero from "@/components/Hero";
 import Navbar from "@/components/Navbar";
+import Footer from "@/components/Footer";
 
 const page = () => {
   return (
@@ -12,6 +13,9 @@ const page = () => {
       
       {/* Hero Section */}
       <Hero />
+      
+      {/* Footer */}
+      <Footer />
     </div>
   );
 };
