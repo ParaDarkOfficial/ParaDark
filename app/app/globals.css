@@ -56,12 +56,11 @@ body {
   animation: bounce 2s ease-in-out infinite;
 }
 
-/* Smooth Scrolling */
+
 html {
   scroll-behavior: smooth;
 }
 
-/* Custom Scrollbar */
 ::-webkit-scrollbar {
   width: 8px;
 }
