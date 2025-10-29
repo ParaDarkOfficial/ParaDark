@@ -4,57 +4,59 @@ This project uses a **dual-license model** to protect both code and creative con
 
 ---
 
-## 📄 License Structure
+## License Structure
 
 ### 1. Code & Software → **MIT License**
 **Applies to:** `/app/`, scripts, configuration files, and all technical components
 
 **License file:** [LICENSE](./LICENSE)
 
-✅ You can freely use, modify, and distribute the code  
-✅ Commercial use is allowed  
-✅ Very permissive and developer-friendly
+    You can freely use, modify, and distribute the code  
+    Commercial use is allowed  
+    ery permissive and developer-friendly
 
 ---
 
-### 2. Creative Content → **CC BY-SA 4.0**
+### 2. Creative Content → **CC BY-NC-SA 4.0**
 **Applies to:** `/lore/` directory (stories, characters, locations, artifacts, myths)
 
 **License file:** [LICENSE-CONTENT](./LICENSE-CONTENT)
 
-✅ You can share and adapt the content  
-✅ **You must give credit** to contributors  
-✅ Derivative works must use the same license  
-✅ Commercial use is allowed (but must stay open)
+    You can share and adapt the content for **non-commercial use**  
+    **You must give credit** to contributors  
+    Derivative works must use the same license  
+    **Commercial use requires permission** from MystiQ-Universe
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 By contributing to MythiQ-Universe, you agree that:
 
 - **Code contributions** will be licensed under MIT
-- **Lore/creative contributions** will be licensed under CC BY-SA 4.0
+- **Lore/creative contributions** will be licensed under CC BY-NC-SA 4.0
+- **MystiQ-Universe retains the right** to use community contributions in official canon, commercial books, and merchandise (with attribution to original creators)
+- **Contributors retain** non-commercial rights to their own contributions
 
 See [CONTRIBUTING.md](./CONTRIBUTING.md) for full contribution guidelines.
 
 ---
 
-## ❓ Why Dual License?
+##Why Dual License?
 
 We want:
-- 💻 Developers to freely build on the platform
-- ✍️ Writers to get credit for their stories
-- 🌍 The mythology to remain open and accessible
-- 🎮 Future adaptations (games, art, etc.) to give back to the community
+- Developers to freely build on the platform
+- Writers to get credit for their stories
+- The mythology to remain open and accessible
+- Future adaptations (games, art, etc.) to give back to the community
 
 ---
 
-## 📋 Summary
+## Summary
 
-| Content Type | License | File |
-|--------------|---------|------|
-| Code (app, scripts) | MIT | [LICENSE](./LICENSE) |
-| Lore (stories, characters) | CC BY-SA 4.0 | [LICENSE-CONTENT](./LICENSE-CONTENT) |
+| Content Type | License | Commercial Use |
+|--------------|---------|----------------|
+| Code (app, scripts) | MIT |  Allowed |
+| Lore (stories, characters) | CC BY-NC-SA 4.0 |  Requires permission |
 
-**TL;DR:** Code is MIT, Lore is CC BY-SA 4.0. Both are open-source and allow commercial use with proper attribution.
+**TL;DR:** Code is MIT (fully open). Lore is CC BY-NC-SA 4.0 (open for fans, but commercial use requires permission from MystiQ-Universe).
