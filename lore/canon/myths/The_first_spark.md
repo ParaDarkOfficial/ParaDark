@@ -55,7 +55,6 @@ And somewhere, in the quiet between dimensions, the voice of Elara Vance still e
 ---
 
 ## (Help Wanted!)
-* What was the *official name* of the research company that ran this facility? (e.g., “Aeternum Dynamics,” “DimensionReach”)  
 * What truly happened to **Dr. Elara Vance** — annihilated, transformed, or reborn in another layer?  
 * How did the **Anomaly Wing** react to the shockwave — did the “Conceptual Hum” cease, or evolve into something dangerous?  
 * Who found the **first Shard of Worlds**, and what impossible gift or curse did it grant?
