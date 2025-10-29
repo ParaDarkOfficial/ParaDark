@@ -1,9 +1,17 @@
+<p align="center">
+  <img src="./assets/paradark-logo.png" alt="ParaDark Logo" width="300"/> 
+</p>
+
+<div align="center">
+
+[![Contributors](https://img.shields.io/github/contributors/ParaDarkOfficial/ParaDark?style=flat-square)](https://github.com/ParaDarkOfficial/ParaDark/graphs/contributors)
+[![GitHub Stars](https://img.shields.io/github/stars/ParaDarkOfficial/ParaDark?style=social)](https://github.com/ParaDarkOfficial/ParaDark/stargazers)
+[![License](https://img.shields.io/badge/License-MIT%20%2B%20CC--BY--NC--SA%204.0-blue?style=flat-square)](./LICENSING.md)
+
+</div>
+
 # Welcome to **ParaDarkOfficial**
 > Where myths evolve — together.
-
-[![Contributors](https://img.shields.io/github/contributors/prathoseraaj/mystiQ-universe)](https://github.com/prathoseraaj/mystiQ-universe/graphs/contributors)
-[![GitHub Stars](https://img.shields.io/github/stars/prathoseraaj/mystiQ-universe)](https://github.com/prathoseraaj/mystiQ-universe/stargazers)
-[![License](https://img.shields.io/badge/License-MIT%20%2B%20CC--BY--NC--SA%204.0-blue)](./LICENSING.md)
 
 **ParaDarkOfficial** is an open-source collaborative mythology universe built by a creative community of **writers, artists, and developers**.  
 Every story, artifact, and character is forged right here on **GitHub** — shaping an ever-expanding multiverse of legends.
@@ -16,6 +24,45 @@ The official origin story of our world is now live:
   [**Read: The First Spark**](/lore/canon/myths/The_First_Spark.md)
 
 It tells the story of the Quantum Reactor accident that fractured the Prime Dimension and scattered 100 **Shards of Worlds** across reality.
+
+---
+
+### Your Mission: Hunt the Shards!
+
+Our origin story, "[The First Spark](/lore/canon/myths/The_First_Spark.md)," ended with the **Prime Reactor Core shattering into 100+ "Shards of Worlds."** These shards have scattered across the **[Prime Dimension](/lore/canon/locations/prime-dimension.md)** and maybe even *other dimensions* entirely!
+
+**What do these shards do?**
+* They grant **superpowers** to whoever finds them. 
+* They can warp reality, creating **anomalies** or **monsters**. 
+* They are pieces of immense power, and now **heroes AND villains** are desperately trying to collect them! ⚔️
+
+**This is where YOU come in.** Our goal is to tell the stories of **all 100+ shards.**
+
+**Your contribution is simple:**
+
+1.  **Invent a Shard:**
+    * Think of a cool power or effect one small shard could have.
+    * **Action:** Add your new shard description as a `.md` file in the `/lore/community/artifacts/` folder. Use the template!
+
+2.  **Decide Who Finds It:**
+    * Is it a random person? An animal? Who gets the power or is affected? Does a hero or villain take the shard from them?
+    * **Action:** If you create a new character, add their bio as a `.md` file in `/lore/community/characters/`.
+
+3.  **Decide Where:**
+    * Did it land in Prime City? A hidden dimension? Bielefeld? A place *you* invent?
+    * **Action:** If you create a new location, add its description as a `.md` file in `/lore/community/locations/`.
+
+4.  **Write the "Episode":**
+    * Tell the short story (1-2 pages) of what happens when that shard is found and activated.
+    * **Action:** Add your story as a `.md` file in the `/lore/community/myths/` folder.
+
+**Every shard is a new story. Every story is a contribution.** We need *your* ideas to build this universe, one shard at a time!
+
+**Ready to add your shard story?**
+**[Check out our simple Contribution Guide](CONTRIBUTING.md)**
+**[See the tasks we need help with!](../../issues)** *(Make sure this link goes to your Issues tab)*
+
+---
 
 Writers and coders can now expand the world through the `/lore/community/` folder:
 - Characters → `/lore/community/characters/`
