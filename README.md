@@ -21,7 +21,7 @@ Every story, artifact, and character is forged right here on **GitHub** — shap
 ## The Beginning of the Universe
 
 The official origin story of our world is now live:  
-  [**Read: The First Spark**](/lore/canon/myths/The_First_Spark.md)
+  [**Read: The First Spark**](/lore/canon/myths/The_first_spark.md)
 
 It tells the story of the Quantum Reactor accident that fractured the Prime Dimension and scattered 100 **Shards of Worlds** across reality.
 
@@ -29,7 +29,7 @@ It tells the story of the Quantum Reactor accident that fractured the Prime Dime
 
 ### Your Mission: Hunt the Shards!
 
-Our origin story, "[The First Spark](/lore/canon/myths/The_First_Spark.md)," ended with the **Prime Reactor Core shattering into 100+ "Shards of Worlds."** These shards have scattered across the **[Prime Dimension](/lore/canon/locations/prime-dimension.md)** and maybe even *other dimensions* entirely!
+Our origin story, "[The First Spark](/lore/canon/myths/The_first_spark.md)," ended with the **Prime Reactor Core shattering into 100+ "Shards of Worlds."** These shards have scattered across the **[Prime Dimension](/lore/canon/locations/prime-dimension.md)** and maybe even *other dimensions* entirely!
 
 **What do these shards do?**
 * They grant **superpowers** to whoever finds them. 
