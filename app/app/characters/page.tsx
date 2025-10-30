@@ -55,8 +55,13 @@ async function getAllCharacters(): Promise<Character[]> {
   try {
     communityFiles = fs.readdirSync(path.join(charactersDirectory, 'community/characters'))
       .filter(file => file.endsWith('.md') && file !== '_template.md');
-  } catch (err: any) {
-    if (err.code !== 'ENOENT') throw err;
+  } catch (err: unknown) {
+    if (
+      !(typeof err === 'object' && err !== null && 'code' in err && typeof (err as { code?: unknown }).code === 'string') ||
+      (err as { code: string }).code !== 'ENOENT'
+    ) {
+      throw err;
+    }
     // Directory does not exist, treat as no community files
     communityFiles = [];
   }
