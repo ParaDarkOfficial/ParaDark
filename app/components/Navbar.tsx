@@ -93,7 +93,7 @@ const Navbar = () => {
                   Community Stories
                 </Link>
                 <Link
-                  href="/lore/characters"
+                  href="/characters"
                   className="block px-4 py-3 text-gray-300 hover:bg-cyan-500/10 hover:text-cyan-400 transition-colors duration-200"
                 >
                   Characters
@@ -191,7 +191,7 @@ const Navbar = () => {
                     Community Stories
                   </Link>
                   <Link
-                    href="/lore/characters"
+                    href="/characters"
                     className="block text-gray-400 hover:text-cyan-400 transition-colors py-1.5"
                     onClick={() => setMobileMenuOpen(false)}
                   >
