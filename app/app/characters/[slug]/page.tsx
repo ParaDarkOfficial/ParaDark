@@ -27,15 +27,31 @@ export async function generateStaticParams() {
   let communityFiles: string[] = [];
   try {
     canonFiles = fs.readdirSync(path.join(charactersDirectory, 'canon/characters'));
-  } catch (err: any) {
-    if (err.code !== 'ENOENT') throw err;
+  } catch (err: unknown) {
+    if (
+      typeof err === 'object' &&
+      err !== null &&
+      'code' in err &&
+      typeof (err as { code?: unknown }).code === 'string' &&
+      (err as { code: string }).code !== 'ENOENT'
+    ) {
+      throw err;
+    }
     // Directory does not exist, treat as empty
     canonFiles = [];
   }
   try {
     communityFiles = fs.readdirSync(path.join(charactersDirectory, 'community/characters'));
-  } catch (err: any) {
-    if (err.code !== 'ENOENT') throw err;
+  } catch (err: unknown) {
+    if (
+      typeof err === 'object' &&
+      err !== null &&
+      'code' in err &&
+      typeof (err as { code?: unknown }).code === 'string' &&
+      (err as { code: string }).code !== 'ENOENT'
+    ) {
+      throw err;
+    }
     // Directory does not exist, treat as empty
     communityFiles = [];
   }
