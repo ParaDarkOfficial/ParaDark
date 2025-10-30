@@ -51,8 +51,15 @@ async function getAllCharacters(): Promise<Character[]> {
   }
 
   // Process community characters
-  const communityFiles = fs.readdirSync(path.join(charactersDirectory, 'community/characters'))
-    .filter(file => file.endsWith('.md') && file !== '_template.md');
+  let communityFiles: string[] = [];
+  try {
+    communityFiles = fs.readdirSync(path.join(charactersDirectory, 'community/characters'))
+      .filter(file => file.endsWith('.md') && file !== '_template.md');
+  } catch (err: any) {
+    if (err.code !== 'ENOENT') throw err;
+    // Directory does not exist, treat as no community files
+    communityFiles = [];
+  }
 
   for (const file of communityFiles) {
     const slug = file.replace(/\.md$/, '');
