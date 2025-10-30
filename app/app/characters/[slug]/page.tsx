@@ -23,9 +23,25 @@ interface CharacterData {
 // Get all possible slugs for static generation
 export async function generateStaticParams() {
   const charactersDirectory = path.join(process.cwd(), '../lore');
+  let canonFiles: string[] = [];
+  let communityFiles: string[] = [];
+  try {
+    canonFiles = fs.readdirSync(path.join(charactersDirectory, 'canon/characters'));
+  } catch (err: any) {
+    if (err.code !== 'ENOENT') throw err;
+    // Directory does not exist, treat as empty
+    canonFiles = [];
+  }
+  try {
+    communityFiles = fs.readdirSync(path.join(charactersDirectory, 'community/characters'));
+  } catch (err: any) {
+    if (err.code !== 'ENOENT') throw err;
+    // Directory does not exist, treat as empty
+    communityFiles = [];
+  }
   const filenames = [
-    ...fs.readdirSync(path.join(charactersDirectory, 'canon/characters')),
-    ...fs.readdirSync(path.join(charactersDirectory, 'community/characters'))
+    ...canonFiles,
+    ...communityFiles
   ].filter(file => file.endsWith('.md'));
 
   return filenames.map((filename) => ({
